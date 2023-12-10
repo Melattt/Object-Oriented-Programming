@@ -1,0 +1,3 @@
+Chicken;4.0;Chicken@8.0@Fry well!@_Chicken@2.0@Fry more!@_;;
+French Fries;4.0;Potato@4.0@Fry them.@_;;
+Omelette;4.0;Egg@4.0@@_Onion@3.0@Yellow@_;Add the onions_Fry the eggs_;

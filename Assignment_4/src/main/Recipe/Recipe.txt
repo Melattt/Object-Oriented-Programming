@@ -1,0 +1,4 @@
+Beef;4.0;Potato@4.0@@_Beef@12.0@@_Onion@4.0@Yellow onion, not red.@_;;
+French Fries;4.0;Potato@4.0@Fry them.@_;;
+Chicken;4.0;Chicken@8.0@Fry well!@_Chicken@2.0@Fry more!@_;;
+Omelette;4.0;Egg@4.0@@_Onion@3.0@Yellow@_;Add the onions_Fry the eggs_;
